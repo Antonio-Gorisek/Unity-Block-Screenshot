@@ -29,7 +29,7 @@ In other words: the content of your application remains visible only within the 
 
 ## How it behaves in practice
 
-* user tries to screenshot → gets a black image
-* user records the screen → the video is black
-* user opens the app switcher → does not see the content of your app
-* when the app returns from the background → protection must still be kept active
+* user tries to screenshot > gets a black image
+* user records the screen > the video is black
+* user opens the app switcher > does not see the content of your app
+* when the app returns from the background > protection must still be kept active
